@@ -15,7 +15,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://mazhuang.org)**
+**[在线预览 &rarr;](http://www.jellmc2.com)**
 
 ![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
 
