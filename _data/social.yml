@@ -1,13 +1,13 @@
-- sitename: 博客
-  name: hao jason
-  url: http://jellmc2.com
+#- sitename: 博客
+  #name: hao jason
+  #url: http://jellmc2.com
 
 - sitename: GitHub
   name: jellmc2
   url: https://github.com/jellmc2
 
 - sitename: 掘金
-  name: 男儿当如的卢
+  name: hao jason
   url: http://gold.xitu.io/user/58c8734144d9040069e63e7d
   
 #- sitename: LinkedIn
