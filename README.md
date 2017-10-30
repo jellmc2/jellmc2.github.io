@@ -1,8 +1,8 @@
-# 码志
+#  啷哩个啷
 
 我的个人博客：<http://www.jellmc2.com>，欢迎 Star 和 Fork。
 
-## 概览
+## 导航
 
 <!-- vim-markdown-toc GFM -->
 * [效果预览](#效果预览)
