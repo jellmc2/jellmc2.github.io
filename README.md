@@ -1,6 +1,4 @@
-#  啷哩个啷
-
-我的个人博客：<http://www.jellmc2.com>，欢迎 Star 和 Fork。
+#  博客
 
 ## 导航
 
@@ -18,6 +16,9 @@
 **[在线预览 &rarr;](http://www.jellmc2.com)**
 
 ![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
+
+## 域名申请
+1.选择域名注册服务商
 
 ## Fork 指南
 
