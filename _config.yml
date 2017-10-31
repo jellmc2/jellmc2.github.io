@@ -100,7 +100,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: jellmc2
-    repo: blog-comments
+    repo: 
     clientID: 95805acb141283bb9e1f
     clientSecret: 8917b8c03b96fe6e585ba7127446fa6f48180a7e
 # 在使用其它评论组件时可点击显示 Disqus
