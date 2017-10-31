@@ -93,7 +93,7 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: jellmc2
-    repo: blog-comments
+    repo: 
     oauth:
         client_id: 95805acb141283bb9e1f
         client_secret: 8917b8c03b96fe6e585ba7127446fa6f48180a7e
