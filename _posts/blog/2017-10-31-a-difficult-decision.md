@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我做了一个有点艰难的决定
+title: 只是不想再虚度下去
 categories: Blog
 description: 我北漂之旅的终点，人生的新起点。
 keywords: 北漂
